@@ -1,0 +1,12 @@
+[submodule "SyncDay_Backend"]
+	path = SyncDay_Backend
+	url = https://github.com/SYNC-DAY/SyncDay_Backend.git
+[submodule "SyncDay_Frontend"]
+	path = SyncDay_Frontend
+	url = https://github.com/SYNC-DAY/SyncDay_Frontend.git
+[submodule "SyncDay_Docker"]
+	path = SyncDay_Docker
+	url = https://github.com/SYNC-DAY/SyncDay_Docker.git
+[submodule "SyncDay_DB"]
+	path = SyncDay_DB
+	url = https://github.com/SYNC-DAY/SyncDay_DB.git
